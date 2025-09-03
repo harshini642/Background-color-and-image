@@ -1,0 +1,12 @@
+#a1 {
+    background-color: green ;
+    height:200px;
+}
+#a2 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3qVO8OwvTocPsBFHD_bByVIOz9sd5bnujsA&s");
+    height:200px;
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position-x: center;
+
+}
